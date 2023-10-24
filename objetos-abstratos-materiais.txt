@@ -1,0 +1,48 @@
+Objeto Material 1: Carro
+
+Atributos:
+
+Modelo
+Cor
+Velocidade Atual
+Métodos:
+
+Ligar o Motor
+Acelerar
+Parar
+Objeto Material 2: Televisão
+
+Atributos:
+
+Tamanho da Tela
+Marca
+Canal Atual
+Métodos:
+
+Ligar
+Trocar de Canal
+Ajustar o Volume
+Objeto Abstrato 1: Conta Bancária
+
+Atributos:
+
+Número da Conta
+Saldo
+Nome do Titular
+Métodos:
+
+Depositar
+Sacar
+Verificar Saldo
+Objeto Abstrato 2: Agenda de Contatos
+
+Atributos:
+
+Nome do Contato
+Número de Telefone
+Email
+Métodos:
+
+Adicionar Contato
+Remover Contato
+Procurar Contato
